@@ -11,7 +11,7 @@ Continuação do desenvolvimento da aplicação que irá armazenar repositórios
 
 ## Start
 
-- (Requisitos - React Native CLI Quickstart)[https://reactnative.dev/docs/environment-setup]
+- [Requisitos - React Native CLI Quickstart](https://reactnative.dev/docs/environment-setup)
 
 ```js
     yarn install        // instala dependências
